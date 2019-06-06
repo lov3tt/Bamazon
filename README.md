@@ -1,3 +1,3 @@
 # Bamazon
 
-!(bamazon.gif)
+![Gif](bamazon.gif)
